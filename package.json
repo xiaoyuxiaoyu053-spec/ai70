@@ -1,0 +1,14 @@
+{
+  "name": "linely-web",
+  "version": "3.0.0",
+  "description": "Linely Web 3.0.0 — AI chat with accounts, calls, memes and a bubble studio",
+  "private": true,
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --check server.js"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
